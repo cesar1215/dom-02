@@ -1,0 +1,15 @@
+div{
+    background-color: black;
+    height: 135px;
+    width: 200px;
+    margin: 10px;
+}
+
+.contenedor{
+    background-color: blue;
+}
+
+.ave{
+    height: 50px;
+    width: 50px;
+}
